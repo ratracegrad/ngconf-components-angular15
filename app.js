@@ -1,4 +1,4 @@
-const app = angular.module('caranddriver', [  'ui.select', 'ui.router'])
+angular.module('caranddriver', [  'ui.select', 'ui.router'])
 
   // .config(function($stateProvider) {
   //   $stateProvider

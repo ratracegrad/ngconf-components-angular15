@@ -1,1 +1,1 @@
-angular.module('caranddriver', []);
+const app = angular.module('caranddriver', []);

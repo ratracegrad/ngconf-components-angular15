@@ -1,0 +1,16 @@
+.mm-header {
+    font: 700 26px/26px Helvetica, Arial, sans-serif;
+    margin-bottom: .9rem;
+}
+
+.mm-sub-header {
+    margin-bottom: 1.25rem;
+    color: #666;
+    font: 14px/14px Helvetica, Arial, sans-serif;
+}
+mm-info {
+    text-transform: uppercase;
+}
+img {
+    width: 100%;
+}

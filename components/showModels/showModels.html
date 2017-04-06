@@ -1,0 +1,9 @@
+<div class="col-xs-5">
+    <ui-select ng-model="$ctrl.model"
+               theme="bootstrap">
+        <ui-select-match placeholder="Select a Model">{{$select.selected.value}}</ui-select-match>
+        <ui-select-choices repeat="model in $ctrl.models[$ctrl.make.value].models  | filter: $select.search track by model.value">
+            <div ng-bind="model.value | highlight: $select.search"></div>
+        </ui-select-choices>
+    </ui-select>
+</div>

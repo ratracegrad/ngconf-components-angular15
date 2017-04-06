@@ -1,0 +1,12 @@
+<div class="container">
+    <div class="col-xs-12">
+        <header class="mm-header">Research Vehicles</header>
+        <p class="mm-sub-header">By Make and Model</p>
+    </div>
+
+    <show-makes make="$ctrl.selectedMake"></show-makes>
+    <show-models make="$ctrl.selectedMake" model="$ctrl.selectedModel" ng-show="$ctrl.selectedMake"></show-models>
+    <show-button ng-show="$ctrl.selectedModel"
+                 ng-click="$ctrl.goToInfo()"></show-button>
+
+</div>

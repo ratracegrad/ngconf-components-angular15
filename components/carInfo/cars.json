@@ -1,0 +1,33 @@
+{
+  "buick": {
+    "enclave": {
+      "image": "http://media.caranddriver.com/images/16q1/665019/2016-buick-enclave-awd-test-review-car-and-driver-photo-665694-s-429x262.jpg",
+      "info": "The first thing you’ll feel in the mid-size 2017 Enclave is a sense of openness. ... And three rows of first-class seating ensure you’ll enjoy everything Enclave has to offer with all your family and friends. ... A mid-size luxury SUV that’s spacious on the inside doesn’t have to "
+    },
+    "encore": {
+      "image": "http://www.buick.com/content/dam/Buick/north_america/usa/nscwebsite/en/home/models/view_all_vehicles/2017_vehicles/2017_Encore/Encore_MOV/01_images/Performance/2017-buick-encore-mov-performance-17BUER00027-938x528-01.jpg",
+      "info": "Step into the new 2017 Encore, and you'll find premium materials, carefully sculpted appointments, and a quiet, spacious cabin that makes every drive "
+    },
+    "envision": {
+      "image": "http://media.caranddriver.com/images/media/51/2017-buick-envision-inline2-photo-671302-s-original.jpg",
+      "info": "The Buick Envision is a mid-size luxury crossover SUV built by Buick. The car was first introduced publicly in China on July 1, 2014, with a photo of the car under"
+    }
+  },
+
+  "chevrolet": {
+    "camero": {
+      "image": "http://buyersguide.caranddriver.com/media/assets/submodel/7671.jpg",
+      "info": "Gutsy engines, aggressive sheetmetal, and rear-wheel drive are essential for any muscle car, but the Camaro stirs in excellent handling and great steering, too. Available as a coupe or convertible, the base engine is a 275-hp 2.0-liter turbo four; a 335-hp 3.6-liter V-6 and a 455-hp 6.2-liter V-8 are optional. All offer either a six-speed manual or optional eight-speed automatic. The interior, though, is tight and offers limited visibility. The V-6 and V-8 Camaros are 10Best winners for 2017."
+    },
+    "colorado": {
+      "image": "http://buyersguide.caranddriver.com/media/assets/submodel/7908.jpg",
+      "info": "The clever and capable Colorado offers nearly as much utility as full-size pickups—minus the lane-hogging size. A 2.5-liter four with 191 lb-ft of torque is standard; optional are a 3.6-liter V-6 (275 lb-ft) and a 2.8-liter turbo-diesel four (369 lb-ft), which has a tow rating of up to 7600 lb. Extended or crew-cab styles can be had with two bed lengths, rear- or all-wheel drive, and either a six-speed manual or automatic. A trail-ready ZR2 trim gets a unique suspension and other off-road kit"
+    }
+  },
+  "ford": {
+    "edge": {
+      "image": "http://buyersguide.caranddriver.com/media/assets/submodel/7925.jpg",
+      "info": "The just-right-sized Edge, with its daring styling, relaxed ride, and sizable cargo bay, is a crossover worth considering. A 245-hp 2.0-liter turbo four-cylinder or a 280-hp 3.5-liter V-6 mate to a six-speed automatic and front- or all-wheel drive. The top Sport model has standard all-wheel drive and a 2.7-liter 315-hp twin-turbo V-6. The Edge has plenty of tech options, too, including Sync 3 touchscreen infotainment, a self-parking feature, adaptive cruise control, and lane-keep assist."
+    }
+  }
+}
